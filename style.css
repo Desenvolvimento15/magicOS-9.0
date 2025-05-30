@@ -3,6 +3,7 @@ body {
 padding: 0;
 margin: 0;
 overflow: initial;
+font-family: 'HONOR Sans World Regular';
 }
 
 @font-face {
@@ -74,11 +75,11 @@ font-family: "HONOR Sans World Light", sans-serif;
 font-family: "HONOR Sans World ExtraLight", sans-serif;
 }
 
-
 .honormagicos {
 font-family: 'HONOR Sans World Medium', sans-serif;
 background: #fff;
 }
+
 .honormagicos .blur-up {
 filter: blur(20px);
 transition: filter 0.2s;
